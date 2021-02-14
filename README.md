@@ -10,10 +10,10 @@ Projeyi indirin.
 
 Ayarlarınızı bitirdikten sonra botun çalıştırma komudu " node bot.js " di
 
-#4.
+# 4.
 
 Alt yapı sorunsuz çalışmaktadır hata veririse muhtemelen sizin eklediğiniz kodlardandır yada ayarlar.json da bir hata yapmış olabilirsiniz .
 
-#5.
+# 5.
 
 Yukarıdakileri okuduysanız güle güle kulanın
