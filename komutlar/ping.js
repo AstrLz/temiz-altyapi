@@ -2,13 +2,13 @@ const Discord = require('discord.js');
 
 exports.run = async(client, message) => {
 
-    let Pixelien = new Discord.MessageEmbed()
+    let Astral = new Discord.MessageEmbed()
         .setColor("#2c2f33")
         .addField("**__Gecikme Sürem__**", `**${client.ws.ping}** ms Olarak Hesaplandı.`,true)
 
-    message.channel.send(`Pingim **${client.ws.ping}** ms olarak hesaplandı`)//CodeWork
+    message.channel.send(`Pingim **${client.ws.ping}** ms olarak hesaplandı`)
 
-}//Pixelien
+}
 
 exports.conf = {
     enabled: true,
